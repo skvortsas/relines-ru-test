@@ -1,0 +1,7 @@
+.product {
+  border: 1px dotted gray;
+}
+
+.product__price {
+  font-size: 1.2rem;
+}
